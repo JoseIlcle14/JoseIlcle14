@@ -1,4 +1,7 @@
-### Olá, eu sou o José Ilcle 👋
+## Olá, eu sou o José Ilcle 👋
+Apaixonado pelo mundo da programação e tecnologia 💻<br>
+Estudande do ensino médio 2/3 <br>
+Estudante do curso técnico em <b>Informática<b>
 
 ![Ilcle GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseIlcle14&show_icons=true&theme=radical)
 
@@ -12,8 +15,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
 </div> <br>
 
-Apaixonado pelo mundo da programação e tecnologia 💻<br>
-Estudande do ensino médio 2/3 <br>
-Estudante do curso técnico em <b>Informática<b>
+
 
 
