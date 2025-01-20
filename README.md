@@ -1,6 +1,5 @@
 ## Olá, eu sou o José Ilcle 👋
 Apaixonado pelo mundo da programação e tecnologia 💻<br>
-Estudande do ensino médio 2/3 <br>
 Estudante do curso técnico em <b>Informática<b>
 
 ![Ilcle GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseIlcle14&show_icons=true&theme=radical)
