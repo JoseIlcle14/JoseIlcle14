@@ -6,13 +6,16 @@ Estudante do curso técnico em <b>Informática<b>
 
 
 ## Tecnologias que utilizo
-
-<div style='display inline_block'><br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)">
- 
+<div dir="auto">
+   <a href="https://www.w3.org/TR/html5/" title="HML5" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px" style="max-width: 100%;"></a>
+  <a href="https://www.w3.org/TR/CSS/" title="CSS3" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px" style="max-width: 100%;"></a>
+  <a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px" style="max-width: 100%;"></a>
+  <a href="https://www.djangoproject.com/" title="Django" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px" style="max-width: 100%;"></a>
+  <a href="https://git-scm.com/" title="Git" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px" style="max-width: 100%;"></a>
+  <a href="https://dev.mysql.com/" title="MySQL" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px" style="max-width: 100%;"></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="40px" height="40px" style="max-width: 100%;"></a>
+   <a href="http://www.w3.org/2000/svg" title="SQLite" rel="nofollow"><img src="https://github.com/get-icon/geticon/blob/master/icons/sqlite.svg?short_path=399b812" alt="SQLite" width="100px" height="40px" style="max-width: 150%;"></a>
+</div>
 </div> <br>
 
 
