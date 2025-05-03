@@ -9,6 +9,8 @@ Estudante do curso técnico em <b>Informática<b>
 <div dir="auto">
    <a href="https://www.w3.org/TR/html5/" title="HML5" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px" style="max-width: 100%;"></a>
   <a href="https://www.w3.org/TR/CSS/" title="CSS3" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px" style="max-width: 100%;"></a>
+   <a href="https://www.w3.org/TR/CSS/" title="CSS3" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="CSS3" width="48px" height="48px" style="max-width: 100%;"></a>
+   
   <a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px" style="max-width: 100%;"></a>
   <a href="https://www.djangoproject.com/" title="Django" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px" style="max-width: 100%;"></a>
   <a href="https://git-scm.com/" title="Git" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px" style="max-width: 100%;"></a>
