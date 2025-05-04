@@ -3,7 +3,7 @@ Apaixonado pelo mundo da programação e tecnologia 💻<br>
 Estudante do curso técnico em <b>Informática<b>
 
 ![Ilcle GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseIlcle14&show_icons=true&theme=radical)
-[![Ilcle GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseIlcle14&layout=compact)](https://github.com/JoseIlcle14/github-readme-stats)
+[![Ilcle GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseIlcle14&layout=compact&theme=radical)](https://github.com/JoseIlcle14/github-readme-stats)
 
 ## Tecnologias que utilizo
 <div dir="auto">
