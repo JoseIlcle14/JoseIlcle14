@@ -19,6 +19,9 @@ Estudante do curso técnico em <b>Informática<b>
 </div>
 </div> <br>
 
+## Contibuições
+   <a href="https://github.com/Victor-Gabriel-marinho/artfex#">Artifex</a>
+   
  ## Cerificações
  <a href= "https://www.credly.com/badges/a3c2351c-b280-4584-a90f-910cccebec77/public_url"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Google Cybersecurity Professional Certificate V2" width="90px" height="90px" style="max-width: 150%;" ></img></a>
 <a href= "https://www.credly.com/badges/0e42dc95-6536-420d-a836-8cd3404ec9a5/public_url"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" title="AWS Academy Graduate - AWS Academy Cloud Foundations" width="90px" height="90px" style="max-width: 150%;" ></img></a>
