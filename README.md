@@ -1,8 +1,11 @@
 <h1 align="left">Olá, meu nome é Ilcle</h1>
 
 ###
-
-<p align="left">Desenvolvedor Back-End<br>Técnico em Informática</p>
+<ul>
+  <li><p align="left">Desenvolvedor Back-End</p></li>
+  <li><p>Técnico em Informática</p></li>
+  <li><p>Estudante de Análise e Desenvolvimento de Sistemas(1/5)</p></li>
+</ul>
 
 ###
 
