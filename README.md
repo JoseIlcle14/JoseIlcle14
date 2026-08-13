@@ -4,7 +4,7 @@
 <ul>
   <li><p align="left">Desenvolvedor Back-End</p></li>
   <li><p>Técnico em Informática</p></li>
-  <li><p>Estudante de Análise e Desenvolvimento de Sistemas(1/5)</p></li>
+  <li><p>Estudante de Análise e Desenvolvimento de Sistemas</p></li>
 </ul>
 
 ###
